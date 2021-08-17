@@ -3,7 +3,7 @@ State of Survival
 
 Can Where You Live Determine Your Life Expecatancy? 
 
-![GitHub Logo](file:///Users/amybednarz/Desktop/Heatmap.png)
+(https://mvillarreal88.github.io/State-of-Survival/HTML/index.html)
 Format: ![Alt Text](url)
 
 Gathered Data for Analysis: 
