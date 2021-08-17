@@ -79,5 +79,5 @@ correlation between the two data points.
 
 
 **Sources**
-(http://www.healthdata.org/ 
+(http://www.healthdata.org/)
 (https://simplemaps.com/data/us-counties)
