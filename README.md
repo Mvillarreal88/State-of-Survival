@@ -3,6 +3,9 @@ State of Survival
 
 Can Where You Live Determine Your Life Expecatancy? 
 
+![GitHub Logo](file:///Users/amybednarz/Desktop/Heatmap.png)
+Format: ![Alt Text](url)
+
 Gathered Data for Analysis: 
 Life Expectancy
 Physical Activity 
