@@ -38,25 +38,6 @@
 * Increase in males by 5.2 years, females had an increase of 3 years. 
 
 
-
-
-**US Overall Obesity**
-
-Increase by Gender
-* 2001 to 2009 Male Obesity increased by 26%
-* 2001 to 2009 Female Obesity increased by 22%
-
-
-
-**US Overall Physical Activity**
-
-Increase by Gender
-* 2001 to 2009  male physical activity by 1.7% 
-* 2001 to 2009  female physical activity by 9.8%
-
-
-
-
 **Physical Activity and Obesity Prevalence Average in the US**
 
 Due to the similar rates of increase in obesity prevalence and physical activity prevalence among the regions, the linear regression indicates there is no strong
