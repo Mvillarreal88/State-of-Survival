@@ -6,9 +6,9 @@
 
 **Data for Analysis**
 
-*Life Expectancy
-*Physical Activity 
-*Obesity
+* Life Expectancy
+* Physical Activity 
+* Obesity
 
 
 
