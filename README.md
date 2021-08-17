@@ -77,5 +77,5 @@ Modern Medicine most likely contributed to higher life expectancy
 
 
 **Sources**
-(http://www.healthdata.org/ - automatic!
+(http://www.healthdata.org/ 
 
